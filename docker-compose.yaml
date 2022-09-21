@@ -21,7 +21,7 @@ services:
     build: .
     restart: always
     ports:
-      - 8888:80
+      - 80:80
     links:
       - db
     volumes:
