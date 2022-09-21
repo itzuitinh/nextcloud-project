@@ -1,7 +1,7 @@
 ### Clone Project
 ```
 cd /home
-git clone https://github.com/itzuitinh/nextcloud-project.git .
+git clone https://github.com/itzuitinh/nextcloud-project.git
 ```
 ### Setup
 ```
